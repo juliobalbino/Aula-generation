@@ -157,7 +157,7 @@ programa
 		leia(d)
 		escreva("\nDigite o valor de l: ")
 		leia(l)
-		escreva("\nDigite o valor de f: ")
+		escreva("\nDigite o valor den f: ")
 		leia(f)
 
 		x = ((c*l)-(b*f)) / ((a*l)-(b*d))
@@ -190,7 +190,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 3230; 
+ * @POSICAO-CURSOR = 2989; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
